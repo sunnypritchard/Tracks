@@ -1,9 +1,9 @@
 # Leap
 
+This is a simple program that determines whether a given year is a leap year. The function `leap_year` takes an integer `year` as input and returns a boolean value (`true` or `false`).
 
-This is a simple C program to determine whether a given year is a leap year. The logic is based on the rules of the Gregorian calendar.
 
-## Overview
+## 🔎 Overview
 A leap year occurs:
 
 - Every year that is divisible by 4

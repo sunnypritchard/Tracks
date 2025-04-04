@@ -1,4 +1,4 @@
-#include "../leap.h"
+#include "../src/leap.h"
 #include <assert.h>
 
 

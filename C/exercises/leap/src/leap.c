@@ -1,5 +1,7 @@
 #include "leap.h"
 
+
+
 bool leap_year(int year)
 {
 	bool divisible_by_4 = (year % 4 == 0);

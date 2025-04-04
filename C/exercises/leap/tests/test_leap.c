@@ -1,5 +1,5 @@
-#include "../test-framework/unity.h"
-#include "../leap.h"
+#include "../tests/test-framework/unity.h"
+#include "../src/leap.h"
 
 
 void setUp(void)
